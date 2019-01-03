@@ -1,2 +1,3 @@
 # hello-world
-Test reposirory
+Test repository
+This is a my first time using an external Version Control System.
